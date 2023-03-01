@@ -8,7 +8,7 @@
    </head>
 <body>
   <div class="container">
-    <div class="title">Registration Form Is Here !Please fill ASAP!!!!</div>
+    <div class="title">Registration Form !!!!</div>
     <div class="content">
       <form action="#">
         <div class="user-details">
